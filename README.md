@@ -1,1 +1,2 @@
-# SQL_ABHISHEK
+# SQL_krishnarathwa
+daily SQL practice 
